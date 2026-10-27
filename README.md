@@ -12,3 +12,5 @@ https://www.sciences.uliege.be/cms/c_13690850/en/how-cyanobacteria-developed-pho
 Beyond my research, I'm also interested in making science more open and accessible. I try to contribute to this by using open-source tools whenever possible, sharing code and data, and documenting my analyses so that others can understand and reuse them. I also enjoy exploring different ways of communicating and sharing scientific knowledge.
 
 This GitHub is part of that effort, and I hope to gradually make more of my research resources available here!
+
+**ORCID:** https://orcid.org/0009-0000-1861-4738
